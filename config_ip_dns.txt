@@ -1,0 +1,26 @@
+
+Configuraá∆o de IP do Windows
+
+   Nome do host. . . . . . . . . . . . . . . . : D11FSC-D7GQ2J2
+   Sufixo DNS prim†rio . . . . . . . . . . . . : supermercadospaguemenos.com.br
+   Tipo de n¢. . . . . . . . . . . . . . . . . : h°brido
+   Roteamento de IP ativado. . . . . . . . . . : n∆o
+   Proxy WINS ativado. . . . . . . . . . . . . : n∆o
+   Lista de pesquisa de sufixo DNS . . . . . . : supermercadospaguemenos.com.br
+
+Adaptador Ethernet Ethernet 3:
+
+   Sufixo DNS espec°fico de conex∆o. . . . . . : 
+   Descriá∆o . . . . . . . . . . . . . . . . . : Intel(R) Ethernet Connection (2) I219-V
+   Endereáo F°sico . . . . . . . . . . . . . . : 28-F1-0E-FD-3C-BB
+   DHCP Habilitado . . . . . . . . . . . . . . : N∆o
+   Configuraá∆o Autom†tica Habilitada. . . . . : Sim
+   Endereáo IPv6 de link local . . . . . . . . : fe80::c587:10f6:d1c6:c25c%11(Preferencial) 
+   Endereáo IPv4. . . . . . . .  . . . . . . . : 10.11.1.42(Preferencial) 
+   M†scara de Sub-rede . . . . . . . . . . . . : 255.255.255.0
+   Gateway Padr∆o. . . . . . . . . . . . . . . : 10.11.1.1
+   IAID de DHCPv6. . . . . . . . . . . . . . . : 187232526
+   DUID de Cliente DHCPv6. . . . . . . . . . . : 00-01-00-01-30-FB-0D-8C-28-F1-0E-FD-3C-BB
+   Servidores DNS. . . . . . . . . . . . . . . : 172.24.0.2
+                                                 172.24.0.3
+   NetBIOS em Tcpip. . . . . . . . . . . . . . : Habilitado
